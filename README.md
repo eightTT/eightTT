@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eightTT, Thanh is my real name, 
+- 👋 Hi, I’m @eightTT, you can call me Thanh, 
 - 🌱 I’m currently working AI in Paris, France
 - 👀 I’m interested in NPL, AI and Data engineering
 - 💞️ I’m looking to collaborate on AI, Data and startup
