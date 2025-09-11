@@ -3,8 +3,7 @@
 - 👀 I’m interested in NPL, AI and Data engineering
 - 💞️ I’m looking to collaborate on AI, Data and startup
 - 📫 How to reach me ...
-- 😄 Pronouns: not yet. just a beginner.
-- ⚡ Fun fact: sacasm
+- ⚡ Fun  fact: sacasm
 
 <!---
 eightTT/eightTT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
